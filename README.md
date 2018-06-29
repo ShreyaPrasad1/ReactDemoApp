@@ -11,9 +11,13 @@ Steps to download node.js
 Create React.js App
 
 1. run the following command
+
 npm install -g npx
+
 npx create-react-app app-name
+
 cd app-name
+
 npm start
 
 
