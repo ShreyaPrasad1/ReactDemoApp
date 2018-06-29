@@ -6,7 +6,7 @@ Steps to download node.js
 
 2. Install it 
 
-3. To make sure npm is insatlled . open cmd and run npm -version
+3. To make sure npm is installed . open cmd and run npm -version
 
 Create React.js App
 
